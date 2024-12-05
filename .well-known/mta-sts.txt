@@ -1,5 +1,5 @@
 version: STSv1
 mode: enforce
-mx: 6ff492ce11c2ea72.mx2.emailprofi.seznam.cz
 mx: 6ff492ce11c2ea72.mx1.emailprofi.seznam.cz
+mx: 6ff492ce11c2ea72.mx2.emailprofi.seznam.cz
 max_age: 86400
